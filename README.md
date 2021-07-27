@@ -5,7 +5,7 @@
 <a href="#"><img title="althaf404_._" src="https://img.shields.io/badge/-althaf404__.__-red"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/-althaf404__.__-green"></a>
+<a href="https://www.instagram.com/althaf404_._/"><img title="Author" src="https://img.shields.io/badge/-althaf404__.__-green"></a>
 </p>
 </div>
 <p align="center">

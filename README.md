@@ -9,7 +9,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://www.instagram.com/althaf404_._/">Althaf_Rahman</a> to make it public
+Project created by <a href="https://www.instagram.com/althaf404_._/">Althaf404</a> to make it public
     <br>
        | © |
         Reserved |

@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="http://imgur.com/gallery/BhH84F4" width="200" height="200"/>
+  <img border-radius: 15px src="http://imgur.com/gallery/8KISAlr" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="althaf404_._" src="https://img.shields.io/badge/-althaf404__.__-red"></a>
 </p>
@@ -9,7 +9,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://www.instagram.com/althaf404_._/">Althaf_Rahman</a> to make it public
+Project created by <a href="https://www.instagram.com/althaf404_._/">Althaf404</a> to make it public
     <br>
        | © |
         Reserved |
@@ -33,7 +33,7 @@ Project created by <a href="https://www.instagram.com/althaf404_._/">Althaf_Rahm
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/DI1EFvtSFX08RrhRMkFkls)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://www.instagram.com/althaf404_._/)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ameer-kallumthodi&repo=PublicBot&theme=nightowl)](https://github.com/ameer-kallumthodi/PublicBot)

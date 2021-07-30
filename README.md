@@ -5,11 +5,11 @@
 <a href="#"><img title="althaf404_._" src="https://img.shields.io/badge/-althaf404__.__-red"></a>
 </p>
   <p align="center">
-<a href="https://www.instagram.com/althaf404_._/"><img title="Author" src="https://img.shields.io/badge/-althaf404__.__-green"></a>
+<a href="https://www.instagram.com/althaf404_/"><img title="Author" src="https://img.shields.io/badge/-althaf404__.__-green"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://www.instagram.com/althaf404_._/">Althaf404</a> to make it public
+Project created by <a href="https://www.instagram.com/althaf404_/">Althaf404</a> to make it public
     <br>
        | © |
         Reserved |
@@ -22,10 +22,10 @@ Project created by <a href="https://www.instagram.com/althaf404_._/">Althaf404</
   <a href="httsp://github.com/ameer-kallumthodi/pikachu">
     <img src="https://img.shields.io/github/repo-size/ameerkallumthodi/pikachu?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://www.instagram.com/althaf404_._/"><img title="Followers" src="https://img.shields.io/github/followers/ameer-kallumthodi?color=blue&style=flat-square"></a>
-<a href="https://www.instagram.com/althaf404_._/"><img title="Stars" src="https://img.shields.io/github/stars/ameer-kallumthodi/pikachu?color=blue&style=flat-square"></a>
-<a href="https://www.instagram.com/althaf404_._/"><img title="Forks" src="https://img.shields.io/github/forks/ameer-kallumthodi/pikachu?color=blue&style=flat-square"></a>
-<a href="https://www.instagram.com/althaf404_._/"><img title="Watching" src="https://img.shields.io/github/watchers/ameer-kallumthodi/pikachu?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://www.instagram.com/althaf404_/"><img title="Followers" src="https://img.shields.io/github/followers/ameer-kallumthodi?color=blue&style=flat-square"></a>
+<a href="https://www.instagram.com/althaf404_/"><img title="Stars" src="https://img.shields.io/github/stars/ameer-kallumthodi/pikachu?color=blue&style=flat-square"></a>
+<a href="https://www.instagram.com/althaf404_/"><img title="Forks" src="https://img.shields.io/github/forks/ameer-kallumthodi/pikachu?color=blue&style=flat-square"></a>
+<a href="https://www.instagram.com/althaf404_/"><img title="Watching" src="https://img.shields.io/github/watchers/ameer-kallumthodi/pikachu?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -33,7 +33,7 @@ Project created by <a href="https://www.instagram.com/althaf404_._/">Althaf404</
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://www.instagram.com/althaf404_._/)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://www.instagram.com/althaf404_/)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ameer-kallumthodi&repo=PublicBot&theme=nightowl)](https://github.com/ameer-kallumthodi/PublicBot)

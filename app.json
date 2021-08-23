@@ -15,7 +15,7 @@
         "SUDO": {
             "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 1205xxxxxxxxx (USA number +1)",
             "required": false,
-            "value": ""
+            "value": "+918592803101"
         },
         "LANGUAGE": {
             "description": "Bot language. Azerice => az, English => en, Türkçe => tr, Malayalam => ml, Hindi => HI, Indonesia => ID, Español => ES, Portuguese => pt, Russian => ru",
@@ -35,7 +35,7 @@
         "AUTO_BİO": {
             "description": "Duruma otomatik tarih ve zaman eklemek için true yapın. Set true for auto date, time in biography.",
             "required": true,
-            "value": "true"
+            "value": "false"
         },
         "HANDLERS": {
             "description": "Komutlar için. For commands.",
@@ -45,7 +45,7 @@
         "FULL_EVA": {
             "description": "Hesabınızı bir Chatbot'a Çevirin! Turn your account into a chatbot!",
             "required": true,
-            "value": "true"
+            "value": "false"
         },
         "NO_LOG": {
             "description": "Hata logu görmek istemiyorsanız true yapın. Set true if you don't want to see error log.",
